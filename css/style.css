@@ -90,7 +90,7 @@ span.menu {
 	display: block;
 }
 .logo h1 a{
-	color: #fff;
+	color: #A0A0A0;
 	font-size: 1.1em;
 	font-weight: 700;
 	margin: 0;
@@ -106,7 +106,7 @@ span.menu {
 }
 .header {
 	padding: 2.5em 0 4.5em 0px;
-	background: url(../images/header-banner.jpg) 0px -513px no-repeat;
+	background: url(../images/header-banner.jpg) 0px -513px ;
 	background-size: cover;
 }
 
